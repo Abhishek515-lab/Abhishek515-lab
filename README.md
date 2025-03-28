@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhishek515-lab
-- 👀 I’m interested in web development, game development 
-- 🌱 I’m currently learning python c#
+- 👀 I’m interested in web development
+- 🌱 I’m currently node js exprese mongoDB
 - 😄 Pronouns: Abhishek 
-- ⚡ Fun fact: I am lazy 
+  
 
 <!---
 Abhishek515-lab/Abhishek515-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
